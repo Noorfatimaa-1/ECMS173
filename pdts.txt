@@ -1,0 +1,5 @@
+laptop 20000 2
+smarttablet 2000 1
+headphone 4000 5
+joysticks 3000 8
+speakers 25000 7
